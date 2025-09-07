@@ -1,4 +1,9 @@
-.a-https {
+* {
+    list-style: none;
+}
+
+div a:nth-child(4)
+:nth-child(5) {
     color: red; 
 }
 .p-lorem10 {
